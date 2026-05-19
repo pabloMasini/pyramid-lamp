@@ -1,3 +1,5 @@
+![RGB twins](https://github.com/pabloMasini/pyramid-lamp/blob/main/img/pyramid-rgb-twins-300px.jpg)
+
 # Pyramid Lamp
 Pyramid shaped lamp with 3W RGB and white LED versions.
 
