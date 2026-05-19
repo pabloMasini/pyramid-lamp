@@ -1,0 +1,15 @@
+"Id";"Identificador";"Empaquetado";"Cantidad";"Identificación";"Suministrador y ref";
+1;"RV3,RV2,RV1";"Potentiometer_Alps_RK09Y11_Single_Horizontal";3;"10k";;;
+2;"REF**,REF**,";"MountingHole_3.2mm_M3";3;"MountingHole_3.2mm_M3";;;
+3;"C1,C2,C3,C4,C5,C6";"C_Disc_D5.0mm_W2.5mm_P2.50mm";6;"10nF";;;
+4;"D1,D2,D3,D4,D5,D6";"D_DO-35_SOD27_P7.62mm_Horizontal";6;"1N4148";;;
+5;"J1";"Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical";1;"Red Led";;;
+6;"J2";"Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical";1;"Blue Led";;;
+7;"J3";"Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical";1;"DC In";;;
+8;"J4";"Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical";1;"Green Led";;;
+9;"Q1,Q2,Q3";"TO-220-3_Vertical";3;"IRF540N";;;
+10;"R1,R2,R7";"R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical";3;"1k";;;
+11;"R3,R4,R8";"R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal";3;"10k";;;
+12;"R5";"R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical";1;"5,6";;;
+13;"R6,R9";"R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical";2;"2,7";;;
+14;"U1,U2,U3";"DIP-8_W7.62mm_Socket_LongPads";3;"LM555";;;
